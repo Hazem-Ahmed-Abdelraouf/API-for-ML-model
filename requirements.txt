@@ -1,0 +1,7 @@
+pillow
+python-multipart
+fastapi[all]
+ftfy
+scipy
+torch
+torchvision
